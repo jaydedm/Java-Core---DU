@@ -18,15 +18,21 @@ public class Main {
 		
 		// TODO: Format number with 4 places and right justify using spaces
 		// X:  10 Y:  20
+		String s1 = String.format("X:    %d Y:    %d", x, y);
+		System.out.println(s1);
 		//System.out.printf("", ...);    
 		
 		// TODO: Format number with 4 places and pad with zeros
 		// X:0010 Y:0020
-		//System.out.printf("", ...); 
+		//System.out.printf("", ...);
+		String s2 = String.format("X:00%d Y:00%d", x, y);
+		System.out.println(s2);
 		
 		// TODO: Format number with 4 places and left justify using spaces
 		// X:10   Y:20
-		//System.out.printf("", ...); 
+		//System.out.printf("", ...);
+		String s3 = String.format("X:%d    Y:%d",x,y);
+		System.out.println(s3);
 		
 		// TODO: Format number using comma separator
 		// X:1,234,567
@@ -47,8 +53,9 @@ public class Main {
 		
 		// TODO: Format floating point number to display only first 2 decimal places
 		// 3.14
-		//System.out.printf("", ...); 
-		
+		//System.out.printf("", ...);
+		String s7 = String.format("%.2f", pi);
+		System.out.println(s7);
 		
 		//-----------------------------
 		// dates
