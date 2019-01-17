@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca62413e-914d-491a-9615-bd6739411234" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pluralsight Demos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pluralsight Demos/IO Streams/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pluralsight Demos/IO Streams/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pluralsight Demos/IO Streams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pluralsight Demos/IO Streams/src/ExerciseTryWithResources/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pluralsight Demos/IO Streams/src/ExerciseTryWithResources/MyAutoCloseable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pluralsight Demos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pluralsight Demos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pluralsight Demos/CreateAndPopulate/CreateAndPopulate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pluralsight Demos/CreateAndPopulate/CreateAndPopulate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pluralsight Demos/myData.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Pluralsight Demos/myData.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pluralsight Demos/out/production/Pluralsight Demos/CreateAndPopulate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Pluralsight Demos/out/production/Pluralsight Demos/CreateAndPopulate/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

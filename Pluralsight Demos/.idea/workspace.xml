@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3746d7a1-9575-4d81-8f9e-b86592c49251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../01 File System/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO Streams/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO Streams/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO Streams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO Streams/src/ExerciseTryWithResources/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IO Streams/src/ExerciseTryWithResources/MyAutoCloseable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01 File System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01 File System/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myData.zip" beforeDir="false" afterPath="$PROJECT_DIR$/myData.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pluralsight Demos/CreateAndPopulate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pluralsight Demos/CreateAndPopulate/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="1018">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,10 +38,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/CreateAndPopulate/Main.java" />
+        <option value="$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="57" />
     <option name="y" value="12" />
     <option name="width" value="875" />
@@ -72,7 +70,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547749141318" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547749886322" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,7 +129,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295519" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295519" />
@@ -149,23 +147,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        <state relative-caret-position="1018">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
