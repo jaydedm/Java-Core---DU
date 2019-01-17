@@ -48,7 +48,6 @@ public class Main {
 			e.printStackTrace();
 			return null;
 		}
-		// ...
 
 	}
 
@@ -63,15 +62,8 @@ public class Main {
 			for (String s:lines) {
 				out.write(s);
 				out.newLine();
-
 			}
-
-				System.out.println("We wrote out");
-			}
-
-
-
-		 catch (Exception e){
+		} catch (Exception e){
 			System.out.println(e.getClass().getSimpleName());
 		}
 	}
