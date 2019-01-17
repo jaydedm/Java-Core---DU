@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3746d7a1-9575-4d81-8f9e-b86592c49251" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../01 File System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01 File System/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01 File System/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01 File System/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CreateAndPopulate/CreateAndPopulate/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myData.zip" beforeDir="false" afterPath="$PROJECT_DIR$/myData.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Pluralsight Demos/CreateAndPopulate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Pluralsight Demos/CreateAndPopulate/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +68,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547749886322" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547766421921" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,7 +113,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1096" height="1896" extended-state="6" />
+    <frame x="-8" y="-8" width="1096" height="1896" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
