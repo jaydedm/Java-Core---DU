@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3746d7a1-9575-4d81-8f9e-b86592c49251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../02 Formatting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02 Formatting/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02 Formatting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../02 Formatting/02 Formatting.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01 File System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01 File System/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01 File System/OutputFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01 File System/OutputFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01 File System/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01 File System/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 Formatting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02 Formatting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 Formatting/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02 Formatting/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 Formatting/bin/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02 Formatting/bin/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02 Formatting/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02 Formatting/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 Formatting/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02 Formatting/src/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,10 +44,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="57" />
-    <option name="y" value="12" />
-    <option name="width" value="875" />
-    <option name="height" value="547" />
+    <option name="x" value="81" />
+    <option name="y" value="-20" />
+    <option name="width" value="874" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -74,7 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547768273302" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547832529615" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
